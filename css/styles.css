@@ -8,4 +8,5 @@ Date Due: 7/31/20
 
 
 html {background: skyblue;}
-h1, h2, h3, h4, h5 { font-family: 'Kanit';}
+h1, h2, h3, h4, h5 { font-family: 'Kanit'; text-align: center;}
+img {max-width: 100%;}
